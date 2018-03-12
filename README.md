@@ -6,22 +6,6 @@
 
 [ES6+](https://github.com/yosuke-furukawa/tower-of-babel): I'm still surprised how much arrow functions, spread operators and deconstruction have sped up my JS coding.
 
-## Slideshows (or slide-like presentations)
-
-[Bespoke](https://github.com/bespokejs/bespoke): Bespoke is the simplest, most modular slide deck framework I've used. It's easy to extend and only does what I want it to. I swapped it in for Swiper on a recent project and it's been great.
-
-## Frontend framework
-
-[Svelte](https://svelte.technology/): It's a joy to code with and easy to wrap my head around.
-
-## Sound on the web
-
-[Howler.js](https://howlerjs.com/): Very simple with lots of nobs and dials, but has its quirks. I could be persuaded to try something else.
-
-## App template
-
-[Tarbell](https://tarbell.readthedocs.io/en/1.0.10/): I'm a maintainer, and I like it. I would like to make it better.
-
 ## Server-side
 
 [Flask](http://flask.pocoo.org/): For small things, Flask is great. I rarely use it for anything that needs more than a single `app.py` file, though (except within Tarbell).
@@ -33,3 +17,20 @@
 ## CMS
 
 [WordPress](https://wordpress.org): I once told a friend, "If you can make your site work in WordPress, you should use WordPress." I still say that (even when I'd rather code in Python).
+
+## App template
+
+[Tarbell](https://tarbell.readthedocs.io/en/1.0.10/): I'm a maintainer, and I like it. I would like to make it better.
+
+## Frontend framework
+
+[Svelte](https://svelte.technology/): It's a joy to code with and easy to wrap my head around.
+
+## Slideshows (or slide-like presentations)
+
+[Bespoke](https://github.com/bespokejs/bespoke): Bespoke is the simplest, most modular slide deck framework I've used. It's easy to extend and only does what I want it to. I swapped it in for Swiper on a recent project and it's been great.
+
+## Sound on the web
+
+[Howler.js](https://howlerjs.com/): Very simple with lots of nobs and dials, but has its quirks. I could be persuaded to try something else.
+
