@@ -34,3 +34,8 @@
 
 [Howler.js](https://howlerjs.com/): Very simple with lots of nobs and dials, but has its quirks. I could be persuaded to try something else.
 
+## Maps
+
+[Mapbox](https://mapbox.com) for slippy maps. Google is good for navigation but gets in the way of dataviz. 
+
+
