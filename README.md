@@ -6,9 +6,17 @@
 
 [ES6+](https://github.com/yosuke-furukawa/tower-of-babel): I'm still surprised how much arrow functions, spread operators and deconstruction have sped up my JS coding.
 
+[Go](https://golang.org/): I use it for work and it has grown on me. Type checking is something I want in most things, now.
+
+## Frontend framework
+
+[Svelte](https://svelte.dev/): It's a joy to code with and easy to wrap my head around.
+
 ## Server-side
 
-[Flask](http://flask.pocoo.org/): For small things, Flask is great. I rarely use it for anything that needs more than a single `app.py` file, though (except within Tarbell).
+[Sapper](https://sapper.svelte.dev/): More and more, I'm building Sapper apps, even for small stuff.
+
+[Flask](http://flask.pocoo.org/): For small things, Flask is great. I rarely use it for anything that needs more than a single `app.py` file, though.
 
 [Django](https://www.djangoproject.com/): First thing I learned. Still the best for big projects (or really anything needing a database and auth).
 
@@ -17,14 +25,6 @@
 ## CMS
 
 [WordPress](https://wordpress.org): I once told a friend, "If you can make your site work in WordPress, you should use WordPress." I still say that (even when I'd rather code in Python).
-
-## App template
-
-[Tarbell](https://tarbell.readthedocs.io/en/1.0.10/): I'm a maintainer, and I like it. I would like to make it better.
-
-## Frontend framework
-
-[Svelte](https://svelte.technology/): It's a joy to code with and easy to wrap my head around.
 
 ## Slideshows (or slide-like presentations)
 
